@@ -161,7 +161,7 @@ article section:nth-of-type(5) h3 {
 }
 
 footer {
-	background: linear-gradient(171deg, lightgrey, grey, lightgrey);
+	background: linear-gradient(171deg, red, black, red);
 	display: flex;
 	padding: 20px;
 }
